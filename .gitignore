@@ -1,0 +1,8 @@
+node_modules
+input_data
+validation_data
+results
+model_fold_?
+results_fold_?
+archive*
+fake_news_classifier
